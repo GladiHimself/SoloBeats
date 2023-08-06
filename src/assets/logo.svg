@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" xmlns:v="https://vecta.io/nano">
+  <defs>
+    <linearGradient id="A">
+      <stop stop-color="#8f5e25" offset="0"/>
+      <stop stop-color="#fbf4a1" offset=".5"/>
+      <stop stop-color="#8f5e25" offset="1"/>
+    </linearGradient>
+  </defs>
+  <text x="15" y="80" font-family="Arial" font-size="100" fill="url(#A)">SoloBeats</text>
+  <path d="..." transform="matrix(1.204259 0 0 1.204259 -3.853629 83.522026)" fill="url(#A)"/>
+</svg>
